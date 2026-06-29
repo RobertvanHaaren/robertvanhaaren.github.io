@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JOUW_APPLE_TEAM_ID.com.robertvanhaaren.stickerswapgo",
+        "paths": [ "/invite/*", "/trade/*" ]
+      }
+    ]
+  }
+}
