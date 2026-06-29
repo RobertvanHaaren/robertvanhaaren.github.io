@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.robertvanhaaren.stickerswapgo",
+      "sha256_cert_fingerprints": [
+        "JOUW_DEBUG_SHA256_FINGERPRINT_HIER",
+        "JOUW_RELEASE_SHA256_FINGERPRINT_HIER"
+      ]
+    }
+  }
+]
