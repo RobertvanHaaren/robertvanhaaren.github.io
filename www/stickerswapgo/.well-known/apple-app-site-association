@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "JOUW_APPLE_TEAM_ID.com.robertvanhaaren.stickerswapgo",
+        "appID": "V7V45SZC52.com.duxilio.stickerswapgo",
         "paths": [ "/invite/*", "/trade/*" ]
       }
     ]
