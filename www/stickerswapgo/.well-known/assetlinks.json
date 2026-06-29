@@ -3,10 +3,10 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.robertvanhaaren.stickerswapgo",
+      "package_name": "com.duxilio.stickerswapgo",
       "sha256_cert_fingerprints": [
         "13:41:D0:1E:43:63:40:38:0C:E1:D3:31:D2:E9:C5:15:4F:B7:4A:88:4D:AD:3C:43:D1:17:8F:DC:09:60:05:5E",
-        "1F:52:64:51:18:12:96:52:22:C9:F6:98:E5:2D:DB:A8:AB:CB:8E:B1:B9:4B:77:F5:EA:8B:8F:6A:0C:F8:D6:B9"
+        "E8:CD:1E:1D:C3:3A:CE:8A:F0:3A:78:8D:FA:AF:C1:59:25:77:15:DC:4C:9A:22:6A:4F:1B:7E:94:CE:4B:71:CE"
       ]
     }
   }
