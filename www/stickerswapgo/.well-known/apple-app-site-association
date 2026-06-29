@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "V7V45SZC52.com.duxilio.stickerswapgo",
+        "appID": "V7V45SZC52.com.duxilio.StickerSwapGo",
         "paths": [ "/invite/*", "/trade/*" ]
       }
     ]
