@@ -1,10 +1,10 @@
 {
-  "englishAlbumName": "The Simpsons",
+  "englishAlbumName": "Happy Harvest2",
   "sets": [
     {
       "setNumber": 1,
-      "themeColor": "#C39BD3",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-1.png",
+      "themeColor": "#F9A425",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-1.png",
       "stickers": [
         { "id": 0, "starValue": 1, "isGold": false, "blitz": false },
         { "id": 1, "starValue": 1, "isGold": false, "blitz": false },
@@ -19,8 +19,8 @@
     },
     {
       "setNumber": 2,
-      "themeColor": "#4B778D",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-2.png",
+      "themeColor": "#458DBB",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-2.png",
       "stickers": [
         { "id": 9, "starValue": 1, "isGold": false, "blitz": false },
         { "id": 10, "starValue": 1, "isGold": false, "blitz": false },
@@ -35,8 +35,8 @@
     },
     {
       "setNumber": 3,
-      "themeColor": "#A74A4A",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-3.png",
+      "themeColor": "#C3986D",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-3.png",
       "stickers": [
         { "id": 18, "starValue": 1, "isGold": false, "blitz": false },
         { "id": 19, "starValue": 1, "isGold": false, "blitz": false },
@@ -51,8 +51,8 @@
     },
     {
       "setNumber": 4,
-      "themeColor": "#63B721",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-4.png",
+      "themeColor": "#6DC595",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-4.png",
       "stickers": [
         { "id": 27, "starValue": 1, "isGold": false, "blitz": false },
         { "id": 28, "starValue": 1, "isGold": false, "blitz": false },
@@ -67,8 +67,8 @@
     },
     {
       "setNumber": 5,
-      "themeColor": "#2E9A80",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-5.png",
+      "themeColor": "#F18B2D",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-5.png",
       "stickers": [
         { "id": 36, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 37, "starValue": 2, "isGold": false, "blitz": false },
@@ -83,8 +83,8 @@
     },
     {
       "setNumber": 6,
-      "themeColor": "#DE9B26",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-6.png",
+      "themeColor": "#61B4C9",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-6.png",
       "stickers": [
         { "id": 45, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 46, "starValue": 2, "isGold": false, "blitz": false },
@@ -99,8 +99,8 @@
     },
     {
       "setNumber": 7,
-      "themeColor": "#1FA4B6",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-7.png",
+      "themeColor": "#CBB349",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-7.png",
       "stickers": [
         { "id": 54, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 55, "starValue": 2, "isGold": false, "blitz": false },
@@ -115,8 +115,8 @@
     },
     {
       "setNumber": 8,
-      "themeColor": "#BA2525",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-8.png",
+      "themeColor": "#4AC4AD",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-8.png",
       "stickers": [
         { "id": 63, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 64, "starValue": 2, "isGold": false, "blitz": false },
@@ -131,13 +131,13 @@
     },
     {
       "setNumber": 9,
-      "themeColor": "#A091CE",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-9.png",
+      "themeColor": "#B6557F",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-9.png",
       "stickers": [
         { "id": 72, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 73, "starValue": 2, "isGold": false, "blitz": false },
-        { "id": 74, "starValue": 2, "isGold": false, "blitz": false },
-        { "id": 75, "starValue": 2, "isGold": false, "blitz": false },
+        { "id": 74, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 75, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 76, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 77, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 78, "starValue": 3, "isGold": false, "blitz": false },
@@ -147,10 +147,10 @@
     },
     {
       "setNumber": 10,
-      "themeColor": "#7A8B5C",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-10.png",
+      "themeColor": "#5DC8D8",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-10.png",
       "stickers": [
-        { "id": 81, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 81, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 82, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 83, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 84, "starValue": 3, "isGold": false, "blitz": false },
@@ -163,24 +163,24 @@
     },
     {
       "setNumber": 11,
-      "themeColor": "#2E6F6C",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-11.png",
+      "themeColor": "#307969",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-11.png",
       "stickers": [
-        { "id": 90, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 91, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 92, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 90, "starValue": 2, "isGold": false, "blitz": false },
+        { "id": 91, "starValue": 2, "isGold": false, "blitz": false },
+        { "id": 92, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 93, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 94, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 95, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 96, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 97, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 98, "starValue": 3, "isGold": false, "blitz": false }
+        { "id": 96, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 97, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 98, "starValue": 4, "isGold": false, "blitz": false }
       ]
     },
     {
       "setNumber": 12,
-      "themeColor": "#5D76A9",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-12.png",
+      "themeColor": "#307969",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-12.png",
       "stickers": [
         { "id": 99, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 100, "starValue": 3, "isGold": false, "blitz": false },
@@ -189,36 +189,36 @@
         { "id": 103, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 104, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 105, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 106, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 106, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 107, "starValue": 4, "isGold": false, "blitz": false }
       ]
     },
     {
       "setNumber": 13,
-      "themeColor": "#825838",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-13.png",
+      "themeColor": "#E7962B",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-13.png",
       "stickers": [
         { "id": 108, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 109, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 110, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 111, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 112, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 113, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 114, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 113, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 114, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 115, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 116, "starValue": 4, "isGold": true, "blitz": false }
       ]
     },
     {
       "setNumber": 14,
-      "themeColor": "#435E5A",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-14.png",
+      "themeColor": "#D7572A",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-14.png",
       "stickers": [
         { "id": 117, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 118, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 119, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 120, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 121, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 120, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 121, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 122, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 123, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 124, "starValue": 4, "isGold": true, "blitz": false },
@@ -227,45 +227,45 @@
     },
     {
       "setNumber": 15,
-      "themeColor": "#886FA1",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-15.png",
+      "themeColor": "#4EB7C5",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-15.png",
       "stickers": [
-        { "id": 126, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 127, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 126, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 127, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 128, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 129, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 130, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 131, "starValue": 4, "isGold": true, "blitz": false },
-        { "id": 132, "starValue": 5, "isGold": false, "blitz": false },
+        { "id": 131, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 132, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 133, "starValue": 5, "isGold": false, "blitz": false },
-        { "id": 134, "starValue": 5, "isGold": true, "blitz": false }
+        { "id": 134, "starValue": 5, "isGold": false, "blitz": false }
       ]
     },
     {
       "setNumber": 16,
-      "themeColor": "#B47941",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-16.png",
+      "themeColor": "#A90600",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-16.png",
       "stickers": [
         { "id": 135, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 136, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 137, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 138, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 139, "starValue": 4, "isGold": true, "blitz": false },
+        { "id": 139, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 140, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 141, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 142, "starValue": 5, "isGold": true, "blitz": false },
-        { "id": 143, "starValue": 6, "isGold": false, "blitz": false }
+        { "id": 143, "starValue": 5, "isGold": false, "blitz": false }
       ]
     },
     {
       "setNumber": 17,
-      "themeColor": "#99A142",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-17.png",
+      "themeColor": "#9BB346",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-17.png",
       "stickers": [
         { "id": 144, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 145, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 146, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 147, "starValue": 4, "isGold": true, "blitz": false },
+        { "id": 147, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 148, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 149, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 150, "starValue": 5, "isGold": false, "blitz": false },
@@ -275,29 +275,29 @@
     },
     {
       "setNumber": 18,
-      "themeColor": "#437C94",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-18.png",
+      "themeColor": "#B75FB4",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-18.png",
       "stickers": [
         { "id": 153, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 154, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 155, "starValue": 4, "isGold": true, "blitz": false },
+        { "id": 155, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 156, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 157, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 158, "starValue": 5, "isGold": false, "blitz": false },
-        { "id": 159, "starValue": 5, "isGold": true, "blitz": false },
+        { "id": 159, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 160, "starValue": 5, "isGold": true, "blitz": false },
         { "id": 161, "starValue": 6, "isGold": false, "blitz": false }
       ]
     },
     {
       "setNumber": 19,
-      "themeColor": "#49B2B8",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-19.png",
+      "themeColor": "#52B758",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-19.png",
       "stickers": [
         { "id": 162, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 163, "starValue": 4, "isGold": true, "blitz": false },
+        { "id": 163, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 164, "starValue": 4, "isGold": true, "blitz": false },
-        { "id": 165, "starValue": 5, "isGold": false, "blitz": false },
+        { "id": 165, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 166, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 167, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 168, "starValue": 5, "isGold": true, "blitz": false },
@@ -307,8 +307,8 @@
     },
     {
       "setNumber": 20,
-      "themeColor": "#4B5282",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-20.png",
+      "themeColor": "#EF7082",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-20.png",
       "stickers": [
         { "id": 171, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 172, "starValue": 4, "isGold": true, "blitz": false },
@@ -323,8 +323,8 @@
     },
     {
       "setNumber": 21,
-      "themeColor": "#3FA896",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-21.png",
+      "themeColor": "#CF5B34",
+      "setBgImageUrl": "https://clawbackstudios.com/stickerswapgo/data/lobster-21.png",
       "stickers": [
         { "id": 180, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 181, "starValue": 4, "isGold": true, "blitz": false },
@@ -335,22 +335,6 @@
         { "id": 186, "starValue": 5, "isGold": true, "blitz": false },
         { "id": 187, "starValue": 5, "isGold": true, "blitz": false },
         { "id": 188, "starValue": 6, "isGold": false, "blitz": false }
-      ]
-    },
-    {
-      "setNumber": 22,
-      "themeColor": "#9CDED6",
-      "setBgImageUrl": "https://raw.githubusercontent.com/RobertvanHaaren/robertvanhaaren.github.io/refs/heads/master/www/stickerwapgo/lobster-22.png",
-      "stickers": [
-        { "id": 189, "starValue": 1, "isGold": false, "blitz": false },
-        { "id": 190, "starValue": 1, "isGold": false, "blitz": false },
-        { "id": 191, "starValue": 2, "isGold": false, "blitz": false },
-        { "id": 192, "starValue": 2, "isGold": false, "blitz": false },
-        { "id": 193, "starValue": 2, "isGold": false, "blitz": false },
-        { "id": 194, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 195, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 196, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 197, "starValue": 4, "isGold": true, "blitz": false }
       ]
     }
   ]
