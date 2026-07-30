@@ -122,7 +122,7 @@
         { "id": 64, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 65, "starValue": 2, "isGold": false, "blitz": false },
         { "id": 66, "starValue": 2, "isGold": false, "blitz": false },
-        { "id": 67, "starValue": 2, "isGold": false, "blitz": false },
+        { "id": 67, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 68, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 69, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 70, "starValue": 3, "isGold": false, "blitz": false },
@@ -189,7 +189,7 @@
         { "id": 103, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 104, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 105, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 106, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 106, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 107, "starValue": 4, "isGold": false, "blitz": false }
       ]
     },
@@ -204,7 +204,7 @@
         { "id": 111, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 112, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 113, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 114, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 114, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 115, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 116, "starValue": 4, "isGold": true, "blitz": false }
       ]
@@ -218,7 +218,7 @@
         { "id": 118, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 119, "starValue": 3, "isGold": false, "blitz": false },
         { "id": 120, "starValue": 3, "isGold": false, "blitz": false },
-        { "id": 121, "starValue": 3, "isGold": false, "blitz": false },
+        { "id": 121, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 122, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 123, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 124, "starValue": 4, "isGold": true, "blitz": false },
@@ -250,11 +250,11 @@
         { "id": 136, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 137, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 138, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 139, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 139, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 140, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 141, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 142, "starValue": 5, "isGold": true, "blitz": false },
-        { "id": 143, "starValue": 5, "isGold": false, "blitz": false }
+        { "id": 143, "starValue": 6, "isGold": false, "blitz": false }
       ]
     },
     {
@@ -265,7 +265,7 @@
         { "id": 144, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 145, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 146, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 147, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 147, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 148, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 149, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 150, "starValue": 5, "isGold": false, "blitz": false },
@@ -280,7 +280,7 @@
       "stickers": [
         { "id": 153, "starValue": 4, "isGold": false, "blitz": false },
         { "id": 154, "starValue": 4, "isGold": false, "blitz": false },
-        { "id": 155, "starValue": 4, "isGold": false, "blitz": false },
+        { "id": 155, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 156, "starValue": 4, "isGold": true, "blitz": false },
         { "id": 157, "starValue": 5, "isGold": false, "blitz": false },
         { "id": 158, "starValue": 5, "isGold": false, "blitz": false },
